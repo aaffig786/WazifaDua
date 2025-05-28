@@ -1,32 +1,150 @@
-[
-  { "juz": 1, "name": "پہلا پارہ", "url": "https://example.com/juz1.json" },
-  { "juz": 2, "name": "دوسرا پارہ", "url": "https://example.com/juz2.json" },
-  { "juz": 3, "name": "تیسرا پارہ", "url": "https://example.com/juz3.json" },
-  { "juz": 4, "name": "چوتھا پارہ", "url": "https://example.com/juz4.json" },
-  { "juz": 5, "name": "پانچواں پارہ", "url": "https://example.com/juz5.json" },
-  { "juz": 6, "name": "چھٹا پارہ", "url": "https://example.com/juz6.json" },
-  { "juz": 7, "name": "ساتواں پارہ", "url": "https://example.com/juz7.json" },
-  { "juz": 8, "name": "آٹھواں پارہ", "url": "https://example.com/juz8.json" },
-  { "juz": 9, "name": "نواں پارہ", "url": "https://example.com/juz9.json" },
-  { "juz": 10, "name": "دسواں پارہ", "url": "https://example.com/juz10.json" },
-  { "juz": 11, "name": "گیارہواں پارہ", "url": "https://example.com/juz11.json" },
-  { "juz": 12, "name": "بارہواں پارہ", "url": "https://example.com/juz12.json" },
-  { "juz": 13, "name": "تیرہواں پارہ", "url": "https://example.com/juz13.json" },
-  { "juz": 14, "name": "چودہواں پارہ", "url": "https://example.com/juz14.json" },
-  { "juz": 15, "name": "پندرہواں پارہ", "url": "https://example.com/juz15.json" },
-  { "juz": 16, "name": "سولہواں پارہ", "url": "https://example.com/juz16.json" },
-  { "juz": 17, "name": "سترہواں پارہ", "url": "https://example.com/juz17.json" },
-  { "juz": 18, "name": "اٹھارہواں پارہ", "url": "https://example.com/juz18.json" },
-  { "juz": 19, "name": "انیسواں پارہ", "url": "https://example.com/juz19.json" },
-  { "juz": 20, "name": "بیسواں پارہ", "url": "https://example.com/juz20.json" },
-  { "juz": 21, "name": "اکیسواں پارہ", "url": "https://example.com/juz21.json" },
-  { "juz": 22, "name": "بائیسواں پارہ", "url": "https://example.com/juz22.json" },
-  { "juz": 23, "name": "تئیسواں پارہ", "url": "https://example.com/juz23.json" },
-  { "juz": 24, "name": "چوبیسواں پارہ", "url": "https://example.com/juz24.json" },
-  { "juz": 25, "name": "پچیسواں پارہ", "url": "https://example.com/juz25.json" },
-  { "juz": 26, "name": "چھببیسواں پارہ", "url": "https://example.com/juz26.json" },
-  { "juz": 27, "name": "ستائیسواں پارہ", "url": "https://example.com/juz27.json" },
-  { "juz": 28, "name": "اٹھائیسواں پارہ", "url": "https://example.com/juz28.json" },
-  { "juz": 29, "name": "انتیسواں پارہ", "url": "https://example.com/juz29.json" },
-  { "juz": 30, "name": "تیسواں پارہ", "url": "https://example.com/juz30.json" }
-]
+{
+  "juz": "پہلا پارہ",
+  "name": "الٓمّٓ",
+  "url": "https://example.com/juz1.json"
+}
+{
+  "juz": "دوسرا پارہ",
+  "name": "سَيَقُولُ",
+  "url": "https://example.com/juz2.json"
+}
+{
+  "juz": "تیسرا پارہ",
+  "name": "تِلْكَ الرُّسُلُ",
+  "url": "https://example.com/juz3.json"
+}
+{
+  "juz": "چوتھا پارہ",
+  "name": "لَنْ تَنَالُوا",
+  "url": "https://example.com/juz4.json"
+}
+{
+  "juz": "پانچواں پارہ",
+  "name": "وَٱلْمُحْصَنَاتُ",
+  "url": "https://example.com/juz5.json"
+}
+{
+  "juz": "چھٹا پارہ",
+  "name": "لَا يُحِبُّ ٱللَّهُ",
+  "url": "https://example.com/juz6.json"
+}
+{
+  "juz": "ساتواں پارہ",
+  "name": "وَإِذَا سَمِعُوا",
+  "url": "https://example.com/juz7.json"
+}
+{
+  "juz": "آٹھواں پارہ",
+  "name": "وَلَوْ أَنَّنَا",
+  "url": "https://example.com/juz8.json"
+}
+{
+  "juz": "نواں پارہ",
+  "name": "قَدْ أَفْلَحَ",
+  "url": "https://example.com/juz9.json"
+}
+{
+  "juz": "دسواں پارہ",
+  "name": "وَٱعْلَمُوا",
+  "url": "https://example.com/juz10.json"
+}
+{
+  "juz": "گیارہواں پارہ",
+  "name": "يَعْتَذِرُونَ",
+  "url": "https://example.com/juz11.json"
+}
+{
+  "juz": "بارہواں پارہ",
+  "name": "وَمَا مِنْ دَآبَّةٍ",
+  "url": "https://example.com/juz12.json"
+}
+{
+  "juz": "تیرہواں پارہ",
+  "name": "وَمَا أُبَرِّئُ",
+  "url": "https://example.com/juz13.json"
+}
+{
+  "juz": "چودہواں پارہ",
+  "name": "رُبَمَا",
+  "url": "https://example.com/juz14.json"
+}
+{
+  "juz": "پندرہواں پارہ",
+  "name": "سُبْحَانَ ٱلَّذِى",
+  "url": "https://example.com/juz15.json"
+}
+{
+  "juz": "سولہواں پارہ",
+  "name": "قَالَ أَلَمْ",
+  "url": "https://example.com/juz16.json"
+}
+{
+  "juz": "سترہواں پارہ",
+  "name": "ٱقْتَرَبَ لِلنَّاسِ",
+  "url": "https://example.com/juz17.json"
+}
+{
+  "juz": "اٹھارہواں پارہ",
+  "name": "قَدْ أَفْلَحَ",
+  "url": "https://example.com/juz18.json"
+}
+{
+  "juz": "انیسواں پارہ",
+  "name": "وَقَالَ ٱلَّذِينَ",
+  "url": "https://example.com/juz19.json"
+}
+{
+  "juz": "بیسواں پارہ",
+  "name": "أَمَّنْ خَلَقَ",
+  "url": "https://example.com/juz20.json"
+}
+{
+  "juz": "اکیسواں پارہ",
+  "name": "اتْلُ مَا أُوْحِيَ",
+  "url": "https://example.com/juz21.json"
+}
+{
+  "juz": "بائیسواں پارہ",
+  "name": "وَمَنْ يَقْنُتْ",
+  "url": "https://example.com/juz22.json"
+}
+{
+  "juz": "تئیسواں پارہ",
+  "name": "وَمَآ لِيَ",
+  "url": "https://example.com/juz23.json"
+}
+{
+  "juz": "چوبیسواں پارہ",
+  "name": "فَمَنْ أَظْلَمُ",
+  "url": "https://example.com/juz24.json"
+}
+{
+  "juz": "پچیسواں پارہ",
+  "name": "إِلَيْهِ يُرَدُّ",
+  "url": "https://example.com/juz25.json"
+}
+{
+  "juz": "چھببیسواں پارہ",
+  "name": "حم",
+  "url": "https://example.com/juz26.json"
+}
+{
+  "juz": "ستائیسواں پارہ",
+  "name": "قَالَ فَمَا خَطْبُكُم",
+  "url": "https://example.com/juz27.json"
+}
+{
+  "juz": "اٹھائیسواں پارہ",
+  "name": "قَدْ سَمِعَ ٱللَّهُ",
+  "url": "https://example.com/juz28.json"
+}
+{
+  "juz": "انتیسواں پارہ",
+  "name": "تَبَارَكَ ٱلَّذِي",
+  "url": "https://example.com/juz29.json"
+}
+{
+  "juz": "تیسواں پارہ",
+  "name": "عَمَّ",
+  "url": "https://example.com/juz30.json"
+}

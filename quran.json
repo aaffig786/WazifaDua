@@ -1,152 +1,572 @@
 [
   {
-  "juz": "پہلا پارہ",
-  "name": "الٓمّٓ",
-  "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/Fatiha.txt"
-},
-{
-  "juz": "دوسرا پارہ",
-  "name": "سَيَقُولُ",
-  "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/Bakara.txt"
-},
-{
-  "juz": "تیسرا پارہ",
-  "name": "تِلْكَ الرُّسُلُ",
-  "url": "https://example.com/juz3.json"
-},
-{
-  "juz": "چوتھا پارہ",
-  "name": "لَنْ تَنَالُوا",
-  "url": "https://example.com/juz4.json"
-},
-{
-  "juz": "پانچواں پارہ",
-  "name": "وَٱلْمُحْصَنَاتُ",
-  "url": "https://example.com/juz5.json"
-},
-{
-  "juz": "چھٹا پارہ",
-  "name": "لَا يُحِبُّ ٱللَّهُ",
-  "url": "https://example.com/juz6.json"
-},
-{
-  "juz": "ساتواں پارہ",
-  "name": "وَإِذَا سَمِعُوا",
-  "url": "https://example.com/juz7.json"
-},
-{
-  "juz": "آٹھواں پارہ",
-  "name": "وَلَوْ أَنَّنَا",
-  "url": "https://example.com/juz8.json"
-},
-{
-  "juz": "نواں پارہ",
-  "name": "قَدْ أَفْلَحَ",
-  "url": "https://example.com/juz9.json"
-},
-{
-  "juz": "دسواں پارہ",
-  "name": "وَٱعْلَمُوا",
-  "url": "https://example.com/juz10.json"
-},
-{
-  "juz": "گیارہواں پارہ",
-  "name": "يَعْتَذِرُونَ",
-  "url": "https://example.com/juz11.json"
-},
-{
-  "juz": "بارہواں پارہ",
-  "name": "وَمَا مِنْ دَآبَّةٍ",
-  "url": "https://example.com/juz12.json"
-},
-{
-  "juz": "تیرہواں پارہ",
-  "name": "وَمَا أُبَرِّئُ",
-  "url": "https://example.com/juz13.json"
-},
-{
-  "juz": "چودہواں پارہ",
-  "name": "رُبَمَا",
-  "url": "https://example.com/juz14.json"
-},
-{
-  "juz": "پندرہواں پارہ",
-  "name": "سُبْحَانَ ٱلَّذِى",
-  "url": "https://example.com/juz15.json"
-},
-{
-  "juz": "سولہواں پارہ",
-  "name": "قَالَ أَلَمْ",
-  "url": "https://example.com/juz16.json"
-},
-{
-  "juz": "سترہواں پارہ",
-  "name": "ٱقْتَرَبَ لِلنَّاسِ",
-  "url": "https://example.com/juz17.json"
-},
-{
-  "juz": "اٹھارہواں پارہ",
-  "name": "قَدْ أَفْلَحَ",
-  "url": "https://example.com/juz18.json"
-},
-{
-  "juz": "انیسواں پارہ",
-  "name": "وَقَالَ ٱلَّذِينَ",
-  "url": "https://example.com/juz19.json"
-},
-{
-  "juz": "بیسواں پارہ",
-  "name": "أَمَّنْ خَلَقَ",
-  "url": "https://example.com/juz20.json"
-},
-{
-  "juz": "اکیسواں پارہ",
-  "name": "اتْلُ مَا أُوْحِيَ",
-  "url": "https://example.com/juz21.json"
-},
-{
-  "juz": "بائیسواں پارہ",
-  "name": "وَمَنْ يَقْنُتْ",
-  "url": "https://example.com/juz22.json"
-},
-{
-  "juz": "تئیسواں پارہ",
-  "name": "وَمَآ لِيَ",
-  "url": "https://example.com/juz23.json"
-},
-{
-  "juz": "چوبیسواں پارہ",
-  "name": "فَمَنْ أَظْلَمُ",
-  "url": "https://example.com/juz24.json"
-},
-{
-  "juz": "پچیسواں پارہ",
-  "name": "إِلَيْهِ يُرَدُّ",
-  "url": "https://example.com/juz25.json"
-},
-{
-  "juz": "چھببیسواں پارہ",
-  "name": "حم",
-  "url": "https://example.com/juz26.json"
-},
-{
-  "juz": "ستائیسواں پارہ",
-  "name": "قَالَ فَمَا خَطْبُكُم",
-  "url": "https://example.com/juz27.json"
-},
-{
-  "juz": "اٹھائیسواں پارہ",
-  "name": "قَدْ سَمِعَ ٱللَّهُ",
-  "url": "https://example.com/juz28.json"
-},
-{
-  "juz": "انتیسواں پارہ",
-  "name": "تَبَارَكَ ٱلَّذِي",
-  "url": "https://example.com/juz29.json"
-},
-{
-  "juz": "تیسواں پارہ",
-  "name": "عَمَّ",
-  "url": "https://example.com/juz30.json"
-}
+    "juz": "سورہ نمبر 1",
+    "name": "الفاتحة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/Fatiha.txt"
+  },
+  {
+    "juz": "سورہ نمبر 2",
+    "name": "البقرة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/Bakara.txt"
+  },
+  {
+    "juz": "سورہ نمبر 3",
+    "name": "آل عمران",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/آل عمران.txt"
+  },
+  {
+    "juz": "سورہ نمبر 4",
+    "name": "النساء",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النساء.txt"
+  },
+  {
+    "juz": "سورہ نمبر 5",
+    "name": "المائدة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المائدة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 6",
+    "name": "الأنعام",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأنعام.txt"
+  },
+  {
+    "juz": "سورہ نمبر 7",
+    "name": "الأعراف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأعراف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 8",
+    "name": "الأنفال",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأنفال.txt"
+  },
+  {
+    "juz": "سورہ نمبر 9",
+    "name": "التوبة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التوبة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 10",
+    "name": "يونس",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/يونس.txt"
+  },
+  {
+    "juz": "سورہ نمبر 11",
+    "name": "هود",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/هود.txt"
+  },
+  {
+    "juz": "سورہ نمبر 12",
+    "name": "يوسف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/يوسف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 13",
+    "name": "الرعد",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الرعد.txt"
+  },
+  {
+    "juz": "سورہ نمبر 14",
+    "name": "إبراهيم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/إبراهيم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 15",
+    "name": "الحجر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحجر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 16",
+    "name": "النحل",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النحل.txt"
+  },
+  {
+    "juz": "سورہ نمبر 17",
+    "name": "الإسراء",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الإسراء.txt"
+  },
+  {
+    "juz": "سورہ نمبر 18",
+    "name": "الكهف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الكهف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 19",
+    "name": "مريم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/مريم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 20",
+    "name": "طه",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/طه.txt"
+  },
+  {
+    "juz": "سورہ نمبر 21",
+    "name": "الأنبياء",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأنبياء.txt"
+  },
+  {
+    "juz": "سورہ نمبر 22",
+    "name": "الحج",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحج.txt"
+  },
+  {
+    "juz": "سورہ نمبر 23",
+    "name": "المؤمنون",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المؤمنون.txt"
+  },
+  {
+    "juz": "سورہ نمبر 24",
+    "name": "النور",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النور.txt"
+  },
+  {
+    "juz": "سورہ نمبر 25",
+    "name": "الفرقان",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الفرقان.txt"
+  },
+  {
+    "juz": "سورہ نمبر 26",
+    "name": "الشعراء",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الشعراء.txt"
+  },
+  {
+    "juz": "سورہ نمبر 27",
+    "name": "النمل",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النمل.txt"
+  },
+  {
+    "juz": "سورہ نمبر 28",
+    "name": "القصص",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القصص.txt"
+  },
+  {
+    "juz": "سورہ نمبر 29",
+    "name": "العنكبوت",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/العنكبوت.txt"
+  },
+  {
+    "juz": "سورہ نمبر 30",
+    "name": "الروم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الروم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 31",
+    "name": "لقمان",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/لقمان.txt"
+  },
+  {
+    "juz": "سورہ نمبر 32",
+    "name": "السجدة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/السجدة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 33",
+    "name": "الأحزاب",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأحزاب.txt"
+  },
+  {
+    "juz": "سورہ نمبر 34",
+    "name": "سبأ",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/سبأ.txt"
+  },
+  {
+    "juz": "سورہ نمبر 35",
+    "name": "فاطر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/فاطر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 36",
+    "name": "يس",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/يس.txt"
+  },
+  {
+    "juz": "سورہ نمبر 37",
+    "name": "الصافات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الصافات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 38",
+    "name": "ص",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/ص.txt"
+  },
+  {
+    "juz": "سورہ نمبر 39",
+    "name": "الزمر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الزمر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 40",
+    "name": "غافر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/غافر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 41",
+    "name": "فصلت",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/فصلت.txt"
+  },
+  {
+    "juz": "سورہ نمبر 42",
+    "name": "الشورى",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الشورى.txt"
+  },
+  {
+    "juz": "سورہ نمبر 43",
+    "name": "الزخرف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الزخرف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 44",
+    "name": "الدخان",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الدخان.txt"
+  },
+  {
+    "juz": "سورہ نمبر 45",
+    "name": "الجاثية",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الجاثية.txt"
+  },
+  {
+    "juz": "سورہ نمبر 46",
+    "name": "الأحقاف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأحقاف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 47",
+    "name": "محمد",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/محمد.txt"
+  },
+  {
+    "juz": "سورہ نمبر 48",
+    "name": "الفتح",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الفتح.txt"
+  },
+  {
+    "juz": "سورہ نمبر 49",
+    "name": "الحجرات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحجرات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 50",
+    "name": "ق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/ق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 51",
+    "name": "الذاريات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الذاريات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 52",
+    "name": "الطور",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الطور.txt"
+  },
+  {
+    "juz": "سورہ نمبر 53",
+    "name": "النجم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النجم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 54",
+    "name": "القمر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القمر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 55",
+    "name": "الرحمن",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الرحمن.txt"
+  },
+  {
+    "juz": "سورہ نمبر 56",
+    "name": "الواقعة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الواقعة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 57",
+    "name": "الحديد",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحديد.txt"
+  },
+  {
+    "juz": "سورہ نمبر 58",
+    "name": "المجادلة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المجادلة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 59",
+    "name": "الحشر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحشر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 60",
+    "name": "الممتحنة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الممتحنة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 61",
+    "name": "الصف",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الصف.txt"
+  },
+  {
+    "juz": "سورہ نمبر 62",
+    "name": "الجمعة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الجمعة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 63",
+    "name": "المنافقون",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المنافقون.txt"
+  },
+  {
+    "juz": "سورہ نمبر 64",
+    "name": "التغابن",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التغابن.txt"
+  },
+  {
+    "juz": "سورہ نمبر 65",
+    "name": "الطلاق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الطلاق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 66",
+    "name": "التحريم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التحريم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 67",
+    "name": "الملك",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الملك.txt"
+  },
+  {
+    "juz": "سورہ نمبر 68",
+    "name": "القلم",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القلم.txt"
+  },
+  {
+    "juz": "سورہ نمبر 69",
+    "name": "الحاقة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الحاقة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 70",
+    "name": "المعارج",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المعارج.txt"
+  },
+  {
+    "juz": "سورہ نمبر 71",
+    "name": "نوح",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/نوح.txt"
+  },
+  {
+    "juz": "سورہ نمبر 72",
+    "name": "الجن",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الجن.txt"
+  },
+  {
+    "juz": "سورہ نمبر 73",
+    "name": "المزمل",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المزمل.txt"
+  },
+  {
+    "juz": "سورہ نمبر 74",
+    "name": "المدثر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المدثر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 75",
+    "name": "القيامة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القيامة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 76",
+    "name": "الإنسان",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الإنسان.txt"
+  },
+  {
+    "juz": "سورہ نمبر 77",
+    "name": "المرسلات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المرسلات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 78",
+    "name": "النبأ",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النبأ.txt"
+  },
+  {
+    "juz": "سورہ نمبر 79",
+    "name": "النازعات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النازعات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 80",
+    "name": "عبس",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/عبس.txt"
+  },
+  {
+    "juz": "سورہ نمبر 81",
+    "name": "التكوير",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التكوير.txt"
+  },
+  {
+    "juz": "سورہ نمبر 82",
+    "name": "الإنفطار",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الإنفطار.txt"
+  },
+  {
+    "juz": "سورہ نمبر 83",
+    "name": "المطففين",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المطففين.txt"
+  },
+  {
+    "juz": "سورہ نمبر 84",
+    "name": "الإنشقاق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الإنشقاق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 85",
+    "name": "البروج",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/البروج.txt"
+  },
+  {
+    "juz": "سورہ نمبر 86",
+    "name": "الطارق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الطارق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 87",
+    "name": "الأعلى",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الأعلى.txt"
+  },
+  {
+    "juz": "سورہ نمبر 88",
+    "name": "الغاشية",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الغاشية.txt"
+  },
+  {
+    "juz": "سورہ نمبر 89",
+    "name": "الفجر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الفجر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 90",
+    "name": "البلد",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/البلد.txt"
+  },
+  {
+    "juz": "سورہ نمبر 91",
+    "name": "الشمس",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الشمس.txt"
+  },
+  {
+    "juz": "سورہ نمبر 92",
+    "name": "الليل",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الليل.txt"
+  },
+  {
+    "juz": "سورہ نمبر 93",
+    "name": "الضحى",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الضحى.txt"
+  },
+  {
+    "juz": "سورہ نمبر 94",
+    "name": "الشرح",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الشرح.txt"
+  },
+  {
+    "juz": "سورہ نمبر 95",
+    "name": "التين",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التين.txt"
+  },
+  {
+    "juz": "سورہ نمبر 96",
+    "name": "العلق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/العلق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 97",
+    "name": "القدر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القدر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 98",
+    "name": "البينة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/البينة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 99",
+    "name": "الزلزلة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الزلزلة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 100",
+    "name": "العاديات",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/العاديات.txt"
+  },
+  {
+    "juz": "سورہ نمبر 101",
+    "name": "القارعة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/القارعة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 102",
+    "name": "التكاثر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/التكاثر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 103",
+    "name": "العصر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/العصر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 104",
+    "name": "الهمزة",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الهمزة.txt"
+  },
+  {
+    "juz": "سورہ نمبر 105",
+    "name": "الفيل",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الفيل.txt"
+  },
+  {
+    "juz": "سورہ نمبر 106",
+    "name": "قريش",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/قريش.txt"
+  },
+  {
+    "juz": "سورہ نمبر 107",
+    "name": "الماعون",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الماعون.txt"
+  },
+  {
+    "juz": "سورہ نمبر 108",
+    "name": "الكوثر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الكوثر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 109",
+    "name": "الكافرون",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الكافرون.txt"
+  },
+  {
+    "juz": "سورہ نمبر 110",
+    "name": "النصر",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/النصر.txt"
+  },
+  {
+    "juz": "سورہ نمبر 111",
+    "name": "المسد",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/المسد.txt"
+  },
+  {
+    "juz": "سورہ نمبر 112",
+    "name": "الإخلاص",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الإخلاص.txt"
+  },
+  {
+    "juz": "سورہ نمبر 113",
+    "name": "الفلق",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الفلق.txt"
+  },
+  {
+    "juz": "سورہ نمبر 114",
+    "name": "الناس",
+    "url": "https://raw.githubusercontent.com/aaffig786/WazifaDua/main/SurahDoc/الناس.txt"
+  }
 ]
